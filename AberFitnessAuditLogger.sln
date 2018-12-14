@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AberFitnessAuditLogger", "AberFitnessAuditLogger\AberFitnessAuditLogger.csproj", "{E4B5855B-944B-47B1-8F80-80C33A49054D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B5855B-944B-47B1-8F80-80C33A49054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B5855B-944B-47B1-8F80-80C33A49054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B5855B-944B-47B1-8F80-80C33A49054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B5855B-944B-47B1-8F80-80C33A49054D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7290B863-48DC-4274-A01C-ED6AD36431F0}
+	EndGlobalSection
+EndGlobal
